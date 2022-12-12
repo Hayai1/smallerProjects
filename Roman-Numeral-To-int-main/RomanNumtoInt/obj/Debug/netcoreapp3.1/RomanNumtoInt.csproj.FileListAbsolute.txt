@@ -1,0 +1,13 @@
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.AssemblyInfoInputs.cache
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.AssemblyInfo.cs
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\bin\Debug\netcoreapp3.1\RomanNumtoInt.exe
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\bin\Debug\netcoreapp3.1\RomanNumtoInt.deps.json
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\bin\Debug\netcoreapp3.1\RomanNumtoInt.runtimeconfig.json
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\bin\Debug\netcoreapp3.1\RomanNumtoInt.runtimeconfig.dev.json
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\bin\Debug\netcoreapp3.1\RomanNumtoInt.dll
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\bin\Debug\netcoreapp3.1\RomanNumtoInt.pdb
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.dll
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.pdb
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.genruntimeconfig.cache
+C:\Users\Dylan\source\repos\RomanNumtoInt\RomanNumtoInt\obj\Debug\netcoreapp3.1\RomanNumtoInt.csproj.AssemblyReference.cache
